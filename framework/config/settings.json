@@ -1,1 +1,10 @@
-
+{
+  "naming_style": "snake_case",
+  "include_date": true,
+  "date_format": "YYYY-MM-DD",
+  "include_project_name": true,
+  "include_version": true,
+  "include_category": true,
+  "order": ["date", "project_name", "category", "version", "title"],
+  "default_preset": "developer_standard"
+}
