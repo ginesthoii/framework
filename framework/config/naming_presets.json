@@ -1,1 +1,6 @@
-
+{
+  "developer_standard": "{date}_{project}_{title}_{version}",
+  "minimal": "{title}",
+  "research": "{author}_{year}_{title}",
+  "media": "{date}_{category}_{title}"
+}
